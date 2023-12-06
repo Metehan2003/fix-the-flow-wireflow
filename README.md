@@ -1,8 +1,5 @@
-> _Fork_ deze deeltaak en ga aan de slag. 
-Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
-De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+Voor deze deeltaak moet ik een wireflow maken van een interactie element. Ik heb gekozen voor de buttons element.
 
+MijN wireflow:
 
-## Licentie
-
-This project is licensed under the terms of the [MIT license](./LICENSE).
+![image](https://github.com/Metehan2003/fix-the-flow-wireflow/assets/144008559/6afb9546-1010-4076-aac2-be51ef3f760e)
